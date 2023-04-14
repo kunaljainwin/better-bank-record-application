@@ -1,5 +1,4 @@
-#include<iostream>
-#include<map>
+#include<bits/stdc++.h>
 using namespace std;
 struct tagRecord{
     long nAccountNo;
@@ -17,3 +16,8 @@ struct tagRecord{
 
 };
 
+int main(){
+    vector<tagRecord> vecRecord;
+    map<int ,void *>mapService;
+    
+}
