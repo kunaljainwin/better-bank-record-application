@@ -16,10 +16,4 @@ struct tagRecord{
     map<int ,void *>mapService;
 
 };
-struct  tagLifeInsurance{
-int count;
-int coverage;
-};
-int main(){
-    cout<<sizeof(bool)<<endl;
-}
+
